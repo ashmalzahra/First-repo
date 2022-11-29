@@ -5,7 +5,7 @@
 ## Built With
 
 - HTML, CSS3
-- Git Github
+- Git, Github
 - VSCode
 
 ## Authors
