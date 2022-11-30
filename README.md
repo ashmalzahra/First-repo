@@ -1,16 +1,5 @@
 <a name="readme-top"></a>
 
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-- Getting Started
-- Authors
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
 <div align="center">
 
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
