@@ -27,7 +27,7 @@
 
 # Hello Microverse
 
-> Hello Microverse project is built for training and understanding Linters.
+ Hello Microverse project is built for training and understanding Linters.
 
 ## Built With
 
@@ -37,9 +37,8 @@
 
 ## Getting Started
 
-Clone the folder to your local machine, make sure to configure linters by following the instructions in the Linters README file (https://github.com/microverseinc/linters-config/blob/master/README.md)
+Clone the folder to your local machine, make sure to configure linters by following the instructions in the [Linters README file] (https://github.com/microverseinc/linters-config/blob/master/README.md)
 
-### Prerequisites
 
 ### Setup
 Set up the yaml file located in <code>.github/workflows/linters.yml</code>
@@ -70,7 +69,7 @@ For stylelint errors run:<code>sudo npx stylelint "**/*.{css,scss}" --fix</code>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ashmalzahra/First-repo/issues).
+Feel free to check the [issues page](https://github.com/ashmalzahra/Hello-World/issues).
 
 ## Show your support
 
@@ -78,5 +77,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed.
+This project is This project is [MIT](./MIT.md) licensed.
 
